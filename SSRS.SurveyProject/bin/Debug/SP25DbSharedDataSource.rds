@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SP25DbSharedDataSource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=LAPTOPWYNIE\SQLEXPRESS16;Initial Catalog=sp25dev2</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>7bcae798-74e2-4026-b91d-9e5b4f021daa</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS.SurveyProject", "SSRS.SurveyProject\SSRS.SurveyProject.rptproj", "{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Debug|Default.ActiveCfg = Debug
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Debug|Default.Build.0 = Debug
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Debug|Default.Deploy.0 = Debug
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.DebugLocal|Default.Build.0 = DebugLocal
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Release|Default.ActiveCfg = Release
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Release|Default.Build.0 = Release
+		{C8C894FF-EF5D-4CD6-82F6-BCA8C49F6A54}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1542E19F-2ADD-42CC-AA70-EAF78F83BD30}
+	EndGlobalSection
+EndGlobal
