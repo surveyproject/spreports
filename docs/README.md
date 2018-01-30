@@ -1,6 +1,6 @@
 # surveyproject SSRS Reports repository - spreports
   
-![Survey Project Logo](http://download-codeplex.sec.s-msft.com/Download?ProjectName=survey&DownloadId=838352&Build=20983)  
+![Survey Project Logo](http://www.surveyproject.org/Portals/1/SpLogo.png)  
 
 ## Repository
 The spreports repository is created to share and develop SQL Server Reporting Services reports for the Survey Project webapplication. SP/ SSRS reports are created through this solution after which the .rdl(c) file can be added to SP.
